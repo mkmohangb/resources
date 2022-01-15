@@ -32,6 +32,9 @@
 - k8s the hard way https://github.com/kelseyhightower/kubernetes-the-hard-way
 - Devops with k8s https://devopswithkubernetes.com/
 
+## Azure
+- Architecture https://docs.microsoft.com/en-us/azure/architecture/guide/
+
 ## Probablity & Statistics
 - https://oli.cmu.edu/jcourse/lms/students/syllabus.do?section=729ec6a50a0001dc1fc85045eaf859e5
 
