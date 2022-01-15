@@ -1,1 +1,22 @@
-# resources
+## NLP
+
+- Practical NLP
+- Huggingface book
+
+## Kafka
+- Effective Kafka
+- Kafka Definitive Guide
+
+## Distributed Systems
+- MIT 6.824 http://nil.csail.mit.edu/6.824/2020/
+- Dr. Martin Kleppmann https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+
+## Systems Design
+- MIT 6.033 http://web.mit.edu/6.033/www/
+- Assignments https://web.mit.edu/6.033/2019/wwwdocs/assignments/handson-unix.shtml
+
+## ML Surveys
+- https://github.com/eugeneyan/ml-surveys
+
+
+
