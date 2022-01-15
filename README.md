@@ -41,5 +41,8 @@
 ## ML Surveys
 - https://github.com/eugeneyan/ml-surveys
 
+## Projects
+- https://github.com/karpathy
+- 2021 trends https://twitter.com/paperswithcode/status/1476544715143143427
 
 
