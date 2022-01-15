@@ -17,7 +17,20 @@
 
 ## Event-Driven Architecture
 - Cosmic Python https://github.com/cosmicpython/book / https://www.cosmicpython.com/book/introduction.html
+
+## Databases
+- https://frontendmasters.com/courses/databases/
+- Cockroach DB https://techcrunch.com/2021/07/15/cockroachdb-ec1/
+- Data School https://dataschool.com/sql-optimization/
+- Database Engineering Udemy course
+
+## MOOCs
+- TDD https://tdd.mooc.fi/
 - 
+
+## k8s
+- k8s the hard way https://github.com/kelseyhightower/kubernetes-the-hard-way
+- Devops with k8s https://devopswithkubernetes.com/
 
 ## Probablity & Statistics
 - https://oli.cmu.edu/jcourse/lms/students/syllabus.do?section=729ec6a50a0001dc1fc85045eaf859e5
