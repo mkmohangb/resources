@@ -45,4 +45,6 @@
 - https://github.com/karpathy
 - 2021 trends https://twitter.com/paperswithcode/status/1476544715143143427
 
-
+## Trading/MF API
+- https://www.mfapi.in
+- https://github.com/zerodha/kiteconnectjs
