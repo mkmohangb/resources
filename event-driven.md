@@ -19,6 +19,11 @@ On the consumer side, there are some common variations:
 - **Complex event processing** - A consumer processes a series of events, looking for patterns in the event data, using a technology such as Azure Stream Analytics or Apache Storm. For example, you could aggregate readings from an embedded device over a time window, and generate a notification if the moving average crosses a certain threshold.
 - **Event stream processing** - Use a data streaming platform, such as Azure IoT Hub or Apache Kafka, as a pipeline to ingest events and feed them to stream processors. The stream processors act to process or transform the stream. There may be multiple stream processors for different subsystems of the application. This approach is a good fit for IoT workloads.
 
+There are two main types of routers used in event-driven architectures: event buses and event topics. 
+ - Amazon EventBridge - to build event buses
+ - Amazon Simple Notification Service - to build event topics
+
+
 ### When to use this architecture
 
 - multiple subsystems must process the same events
@@ -34,3 +39,4 @@ Javascript - EventEmitter class
 1. https://en.wikipedia.org/wiki/Event-driven_architecture
 2. https://web.archive.org/web/20160405073553/https://keen.io/blog/53958349217/analytics-for-hackers-how-to-think-about-event-data
 3. https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven
+4. https://aws.amazon.com/event-driven-architecture/
