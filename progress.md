@@ -46,4 +46,26 @@ https://oli.cmu.edu/jcourse/lms/students/syllabus.do?section=729ec6a50a0001dc1fc
 
 ### Kubernetes
 
+### Databases
+    1. postgres
+        - Relations => Table, Row, Column, Primary Key, Foreign Key
+        - CRUD
+        - Joins => Inner join, Outer join, Full join
+        - Indexing => b-tree index, hash index, gist(generalized index search tree), gin(generalized inverted index)
+        - Advanced Queries => Aggregate functions, Grouping, Window functions
+        - Transactions
+        - Stored Procedures
+        - Triggers
+        - Views
+        - Rules
+        - Crosstab => Pivot table
+        - Full Text
+            - Fuzzy search => like,ilike, regex(~(match operator) *(case insensitive) !(not)), levenshtein, trigram
+            - Full-text => TSVector, TSQuery, Indexing Lexemes, Metaphones
+        - Multidimensional Hypercube => cube package
+       
+### Cloud Native       
+        
+        
+
 
