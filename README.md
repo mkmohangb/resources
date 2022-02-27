@@ -37,6 +37,7 @@
 ## Deployment
 - https://theaisummer.com/scalability/
 - https://towardsdatascience.com/serve-hundreds-to-thousands-of-ml-models-architectures-from-industry-bf3d9474d427
+- Scaling upto first 10 million users https://www.youtube.com/watch?v=kKjm4ehYiMs&t=1175s
 
 ## Event-Driven Architecture
 - Cosmic Python https://github.com/cosmicpython/book / https://www.cosmicpython.com/book/introduction.html
