@@ -10,3 +10,6 @@
   - https://twitter.com/abhi1thakur/status/1470406453185982465
   - http://peterbloem.nl/blog/transformers
 
+## BERT
+  - https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial
+  - https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
