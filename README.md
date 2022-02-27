@@ -12,6 +12,9 @@
   - High Performance Browser Networking https://hpbn.co/
   - Real world app https://github.com/gothinkster/realworld
   - Functional Programming in JS https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
+
+## Task orchestration
+  - Airflow https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow
   
 ## NLP
 
