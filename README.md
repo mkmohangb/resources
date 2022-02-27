@@ -11,6 +11,7 @@
 ## Web
   - High Performance Browser Networking https://hpbn.co/
   - Real world app https://github.com/gothinkster/realworld
+  - Functional Programming in JS https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
   
 ## NLP
 
