@@ -1,5 +1,6 @@
 ## Interviews
   - DL interviews https://arxiv.org/abs/2201.00650
+  - ML interviews https://huyenchip.com/ml-interviews-book/
   
 ## Ergonomic office setup
   - https://blog.amirathi.com/2019/08/18/ergonomic-office-setup/#more-407
