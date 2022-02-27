@@ -3,10 +3,15 @@
 
 ## AI Business
   - https://future.a16z.com/podcasts/ai-ml-economics-complexity-data-science-company-building/
+
+## From scratch
+  - https://www.menge.io/blog/learning-coding/
+  - https://cstack.github.io/db_tutorial/
   
 ## Web
-High Performance Browser Networking https://hpbn.co/
-
+  - High Performance Browser Networking https://hpbn.co/
+  - Real world app https://github.com/gothinkster/realworld
+  
 ## NLP
 
 - Practical NLP
@@ -23,6 +28,11 @@ High Performance Browser Networking https://hpbn.co/
 ## Systems Design
 - MIT 6.033 http://web.mit.edu/6.033/www/
 - Assignments https://web.mit.edu/6.033/2019/wwwdocs/assignments/handson-unix.shtml
+- ML Systems design https://stanford-cs329s.github.io/syllabus.html
+
+## Deployment
+- https://theaisummer.com/scalability/
+- https://towardsdatascience.com/serve-hundreds-to-thousands-of-ml-models-architectures-from-industry-bf3d9474d427
 
 ## Event-Driven Architecture
 - Cosmic Python https://github.com/cosmicpython/book / https://www.cosmicpython.com/book/introduction.html
