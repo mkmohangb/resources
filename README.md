@@ -1,3 +1,6 @@
+## Ergonomic office setup
+  - https://blog.amirathi.com/2019/08/18/ergonomic-office-setup/#more-407
+  
 ## Web
 High Performance Browser Networking https://hpbn.co/
 
