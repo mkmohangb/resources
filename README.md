@@ -1,5 +1,8 @@
 ## Ergonomic office setup
   - https://blog.amirathi.com/2019/08/18/ergonomic-office-setup/#more-407
+
+## AI Business
+  - https://future.a16z.com/podcasts/ai-ml-economics-complexity-data-science-company-building/
   
 ## Web
 High Performance Browser Networking https://hpbn.co/
