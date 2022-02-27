@@ -35,8 +35,9 @@ High Performance Browser Networking https://hpbn.co/
 - k8s the hard way https://github.com/kelseyhightower/kubernetes-the-hard-way
 - Devops with k8s https://devopswithkubernetes.com/
 
-## Azure
-- Architecture https://docs.microsoft.com/en-us/azure/architecture/guide/
+## Cloud
+- Azure Architecture https://docs.microsoft.com/en-us/azure/architecture/guide/
+- AWS Well-architected https://aws.amazon.com/architecture/well-architected
 
 ## Probablity & Statistics
 - https://oli.cmu.edu/jcourse/lms/students/syllabus.do?section=729ec6a50a0001dc1fc85045eaf859e5
