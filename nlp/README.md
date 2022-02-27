@@ -1,3 +1,6 @@
+## Course
+  - https://lena-voita.github.io/nlp_course.html
+
 ## Transformers
 
   - https://e2eml.school/transformers.html
