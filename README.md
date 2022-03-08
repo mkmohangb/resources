@@ -47,12 +47,16 @@
 
 ## Event-Driven Architecture
 - Cosmic Python https://github.com/cosmicpython/book / https://www.cosmicpython.com/book/introduction.html
+## Projects
+- pypa Warehouse https://github.com/pypa/warehouse
+- ERPNext https://erpnext.com/explainer-videos
+- Listmonk https://listmonk.app/docs/
 
 ## Databases
 - https://frontendmasters.com/courses/databases/
 - Cockroach DB https://techcrunch.com/2021/07/15/cockroachdb-ec1/
 - Data School https://dataschool.com/sql-optimization/
-- Database Engineering Udemy course
+- Database Engineering Udemy course https://www.udemy.com/course/database-engines-crash-course/
 
 ## MOOCs
 - TDD https://tdd.mooc.fi/
