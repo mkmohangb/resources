@@ -1,3 +1,6 @@
+## CTO
+  - https://github.com/kuchin/awesome-cto
+
 ## Interviews
   - DL interviews https://arxiv.org/abs/2201.00650
   - ML interviews https://huyenchip.com/ml-interviews-book/
