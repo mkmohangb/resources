@@ -43,6 +43,7 @@
 - MIT 6.033 http://web.mit.edu/6.033/www/
 - Assignments https://web.mit.edu/6.033/2019/wwwdocs/assignments/handson-unix.shtml
 - ML Systems design https://stanford-cs329s.github.io/syllabus.html
+- System Design Primer https://github.com/donnemartin/system-design-primer
 
 ## Deployment
 - https://theaisummer.com/scalability/
