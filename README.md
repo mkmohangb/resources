@@ -1,3 +1,9 @@
+## Software Architecture
+  - Software Architecture: The Hard Parts https://www.oreilly.com/library/view/software-architecture-the/9781492086888/
+  
+## Missing semester
+  - https://missing.csail.mit.edu/2020/course-shell/
+
 ## Graphics
   - Renderer from scratch https://github.com/ssloy/tinyrenderer
   
