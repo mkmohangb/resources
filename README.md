@@ -37,6 +37,7 @@
 ## Distributed Systems
 - MIT 6.824 http://nil.csail.mit.edu/6.824/2020/
 - Dr. Martin Kleppmann https://www.youtube.com/watch?v=UEAMfLPZZhE&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+- Designing Netflix http://highscalability.com/blog/2021/12/13/designing-netflix.html
 
 ## Systems Design
 - MIT 6.033 http://web.mit.edu/6.033/www/
