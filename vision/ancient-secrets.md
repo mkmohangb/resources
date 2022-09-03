@@ -51,3 +51,4 @@ Better visual acuity
 
 <img width="1105" alt="Screenshot 2022-09-03 at 11 01 56 AM" src="https://user-images.githubusercontent.com/2610866/188257311-d1bdbdb7-c9ed-4a62-ba14-f92e5172a19f.png">
 
+<img width="1101" alt="Screenshot 2022-09-03 at 11 15 57 AM" src="https://user-images.githubusercontent.com/2610866/188257683-2dba730d-1c18-4ac4-b913-4523e3ff8b37.png">
