@@ -30,3 +30,12 @@
   * Applications
     - Retrieval
     - Robots
+
+
+### Human Vision
+
+Eye spots -> Pit Eyes -> Complex Eyes -> Refraction
+
+Better visual acuity
+
+<img width="682" alt="Screenshot 2022-09-03 at 7 27 49 AM" src="https://user-images.githubusercontent.com/2610866/188251474-40e55f30-2eca-4c84-8799-ecec739467db.png">
