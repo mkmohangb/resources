@@ -1,6 +1,7 @@
 ## [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/)
 
-### 1. Low-Level Vision
+### 1. Introduction
+#### a. Low-Level Vision
   * Photo Manipulation
     - Size 
     - Color
@@ -11,7 +12,7 @@
     - Oriented Gradients
     - Segments
 
-### 2. Mid-Level Vision (Connecting images to the Physical world)
+#### b. Mid-Level Vision (Connecting images to the Physical world)
   * Image <-> Image
     - Panoramas
   * Image <-> World
@@ -22,7 +23,7 @@
   * Image <-> Time
     - Optical flow
     - Time Lapse
-### 3. High-Level Vision
+#### c. High-Level Vision
   * Image <-> Semantics
     - Image Classification
     - Object detection
@@ -32,7 +33,7 @@
     - Robots
 
 
-### Human Vision
+### 2. Human Vision
 
 Eye spots -> Pit Eyes -> Complex Eyes -> Refraction
 
